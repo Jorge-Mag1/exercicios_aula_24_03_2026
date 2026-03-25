@@ -1,0 +1,15 @@
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfoInputs.cache
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\exercicios.AssemblyInfo.cs
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\exercicios.csproj.CoreCompileInputs.cache
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\exercicios.sourcelink.json
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\bin\Debug\net9.0\exercicios.exe
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\bin\Debug\net9.0\exercicios.deps.json
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\bin\Debug\net9.0\exercicios.runtimeconfig.json
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\bin\Debug\net9.0\exercicios.dll
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\bin\Debug\net9.0\exercicios.pdb
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\exercicios.dll
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\refint\exercicios.dll
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\exercicios.pdb
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\exercicios.genruntimeconfig.cache
+C:\_Dev\UC00245\Exercícios\exercicios_aula_24_03_2026\exercicios\obj\Debug\net9.0\ref\exercicios.dll
